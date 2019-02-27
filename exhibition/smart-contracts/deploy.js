@@ -9,11 +9,10 @@ const { interface, bytecode } = require("./compile");
 
 // list of 12 words key to connect account. You can get this key when you setup a MetaMask
 var mnemonic =
-  "stove scene lunar grape weekend dance weekend crisp fluid swamp cycle agent";
+  "travel two praise shed actor boss float lounge crawl mule possible risk";
 
 // Infur rinkeby API url.
 // Specify ethereum network need to connect to
-//var accessToken = "https://rinkeby.infura.io/AJzACQv9DEFVUKsFYFV2";
 var accessToken = "https://rinkeby.infura.io/v3/846c196c337943bf9eb3a71608446615";
 
 // Create a wallet provider to connect outside rinkeby network
